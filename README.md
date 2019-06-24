@@ -9,3 +9,5 @@ Data analysis in this repository breaks down into 3 notebooks:
 * Data wrangling
 * Visualization
 * Prediction model 
+
+An analysis summary notebook is provided for reference
