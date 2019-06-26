@@ -8,6 +8,7 @@ In this work, analysis will be done on a Google Merchandise Store (also known as
 Data analysis in this repository breaks down into 3 notebooks:
 * Data wrangling
 * Visualization
-* Prediction model 
+* Baseline model selection
+* Model optimization for predicting results
 
 An analysis summary notebook is provided for reference
